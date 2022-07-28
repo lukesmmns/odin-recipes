@@ -5,4 +5,5 @@
 .list {
     color:firebrick;
     text-align: center;
+    list-style-type: none;
 }
